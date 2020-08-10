@@ -70,7 +70,9 @@ h6 {
 .message,
 .success,
 .error,
-.warning {
+.warning,
+.success,
+.error {
   border: 1px solid #ccc;
   padding: 10px;
   color: #2748B3;
@@ -83,7 +85,7 @@ h6 {
 .error {
   background-color: red; }
 
-.warning {
+.warning, .success, .error {
   background-color: orange; }
 
 /*# sourceMappingURL=example.css.map */
