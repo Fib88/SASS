@@ -1,5 +1,10 @@
-.redtext {
-  color: red; }
+.class-for-example {
+  color: #010178;
+  background-color: white; }
+
+.class-for-examplered {
+  color: red;
+  background-color: black; }
 
 body {
   font: 100% "Space Mono", monospace;

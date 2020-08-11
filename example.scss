@@ -1,13 +1,13 @@
 $blue:8px;
 $red: 2*$blue;
 
-$bluetext:blue;
-
-$redtext:red;
-
-
-.redtext{
-  color:red;
+.class-for-example{
+  color: #010178;
+  background-color: white;
+}
+.class-for-examplered{
+  color: red;
+  background-color: black;
 }
   @mixin box-shadow {
     -webkit-box-shadow: 10px 10px 19px -4px rgba(255, 255, 255, 0.75);
